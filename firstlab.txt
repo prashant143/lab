@@ -14,3 +14,4 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
  The first will show this file being pushed.  
 The second will show the change you made online. 
  The 3rd will show the change you made to this file on your computer.
+
